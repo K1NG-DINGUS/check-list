@@ -1,0 +1,101 @@
+[
+    {
+        "passo": "Login inicial PREVENIR sem senha"
+    },
+    {
+        "passo": "Personalizar Temas -> Configurações de ícones da área de trabalho -> Marcar todos"
+    },
+    {
+        "passo": "Desabilitar caixa de pesquisa, notícias, remover ícones da store e email"
+    },
+    {
+        "passo": "Este computador -> Propriedades -> Configurações Avançadas -> Desempenho -> Efeitos visuais -> Desabilitar todos até o 'Habilitar Peek'"
+    },
+    {
+        "passo": "Este computador -> Gerenciar -> Usuarios e Grupos Locais -> Usuarios -> Administrador - Propriedades - Desmarcar conta desativada"
+    },
+    {
+        "passo": "Definir senha 'info@prev' para o Administrador e PREVENIR"
+    },
+    {
+        "passo": "Configurar WiFi wPrevenir e VELPrevenir"
+    },
+    {
+        "passo": "Logar com usuario Administrador e refazer os passos 2 a 4"
+    },
+    {
+        "passo": "Entrar em www.ninite.com e baixar Chrome, Firefox, Notepad++, K-lite Codecs, Revo e Winrar."
+    },
+    {
+        "passo": "Criar pasta TEMP no disco local"
+    },
+    {
+        "passo": "Instalar AnyDesk (ATENÇÃO! NÃO instalar a AnyDesk impressora)"
+    },
+    {
+        "passo": "Criar senha 'homeoffice1' para acesso não supervisionado"
+    },
+    {
+        "passo": "Instalar TightVNC"
+    },
+    {
+        "passo": "Definir as senhas com 'manager'"
+    },
+    {
+        "passo": "Instalar Lightshot"
+    },
+    {
+        "passo": "Instalar Sankhya"
+    },
+    {
+        "passo": "Registrar novo servidor -> Nome: PRODUÇÃO / Protocolo: Http / Endereço: prevenir.nexavita.com.br:8180/mge / habilitar 'Web Connection'"
+    },
+    {
+        "passo": "Copiar downloads para a pasta TEMP"
+    },
+    {
+        "passo": "Transferir as pastas SANKHYA e VOIP/TELEFONE IP CISCO pelo TightVNC (ATENÇÃO! VERIFICAR NECESSIDADE DA PASTA LOCAIS)"
+    },
+    {
+        "passo": "Transferir tftp-4-64 e tftpsetup pelo TightVNC"
+    },
+    {
+        "passo": "Instalar tftp-4-64"
+    },
+    {
+        "passo": "Microsoft Edge -> Configurações -> Sistema -> Desabilitar 'Continuar executando extensões e aplicativos em segundo plano'"
+    },
+    {
+        "passo": "REVO - Desinstalar Solitaire, Office, Xbox, Verificação de Integridade -> Desabilitar ponto de restauração e excluir todos os registros"
+    },
+    {
+        "passo": "Limpar o menu iniciar e atualizar a máquina"
+    },
+    {
+        "passo": "Alterar o Host Name"
+    },
+    {
+        "passo": "Alterar o Workgroup para PREVENIR"
+    },
+    {
+        "passo": "Reiniciar para aplicar tudo (se houver mais atualizações após este passo, deixar atualizar)"
+    },
+    {
+        "passo": "Instalar Macrium Reflect Free"
+    },
+    {
+        "passo": "Macrium -> Clonar este disco -> Desmarcar XML -> Confirmar sobrescrição"
+    },
+    {
+        "passo": "Esvaziar lixeira e mudar Hostname da máquina clonada"
+    },
+    {
+        "passo": "Verificar se data e hora estão corretos"
+    },
+    {
+        "passo": "Desinstalar e reinstalar AnyDesk na máquina clonada"
+    },
+    {
+        "passo": "Criar senha de acesso não supervisionado para o Anydesk da máquina clonada (VER PASSO ANTERIOR)"
+    }
+]

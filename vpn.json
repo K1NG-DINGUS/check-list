@@ -1,0 +1,17 @@
+[
+    {
+        "passo": "Rede -> Alterar configurações do adaptador -> VPN Prevenir -> Propriedades"
+    },
+    {
+        "passo": "Aba Segurança -> Tipo de VPN: PPTP"
+    },
+    {
+        "passo": "Aba Segurança -> Permitir estes protocolos -> Marcar apenas MS-CHAP v2"
+    },
+    {
+        "passo": "Aba Rede - Desmarcar Ipv6"
+    },
+    {
+        "passo": "Aba Rede -> Ipv4 Propriedades - Avançado - Desmarcar 'Utilizar gateway padrão em rede remota'"
+    }
+]
